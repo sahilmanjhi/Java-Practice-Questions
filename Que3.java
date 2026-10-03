@@ -1,3 +1,4 @@
+//LAB_8
 class Payment {
 
     void processPayment(double amount) {

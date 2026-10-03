@@ -1,3 +1,4 @@
+//code for Inheritance:
 abstract class Animal {
 
     // Abstract method
